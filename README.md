@@ -15,7 +15,7 @@ A sleek, animated frontend-only UI made with HTML, CSS, and JavaScript. This pro
 - OG Meta tags for social previews
 
 ## 🌐 Live:
-[Click here](https://piyush2707.github.io/pet-adoption-center/)
+[Click here](https://piyush2707.github.io/Pet-Adoption-Ui/)
 
 ## 👤 Designed by:
 Piyush Joshi
